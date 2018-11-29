@@ -1,5 +1,5 @@
 ---
-title: Volstead Act Business Card
+title: Business Card
 date: 2018-06-30 00:00:00 Z
 subtitle: This is a demo
 featured_image: "/images/demo/demo-square.jpg"
@@ -10,7 +10,7 @@ excerpt: This page is a demo that shows everything you can do inside portfolio a
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Demo content
+## Volstead Act Business Card
 
 Jacob Schreiber from the Volstead Act. The Volstead Act is a popular bar in downtown Spokane that features many delicious craft cocktails. The bar is wooden as are a lot of the surfaces in the bar so I wanted to use that in the design of the card.
 

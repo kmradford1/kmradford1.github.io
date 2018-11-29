@@ -1,22 +1,53 @@
 ---
-title: Kmradford1.Github.Io
-timezone: America/Los_Angeles
+title: Web 3 Theme
+timezone: UTC
 collections:
-  layouts:
-    title: Layouts
+  pages:
+    title: Pages
     output: true
-  portfolio:
-    title: Portfolio
-    output: true
+    permalink: "/:name"
   posts:
     title: Posts
     output: true
+  projects:
+    title: Projects
+    output: true
+    permalink: "/project/:slug"
   uploads:
     title: Uploads
     output: true
 defaults:
 - scope:
     path: ''
-    type: portfolio
   values:
-    Teaser Image: 
+    layout: default
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: ''
+    type: projects
+  values:
+    layout: project
+    subtitle: 
+    featured_image: 
+    excerpt: 
+site: Web 3 Theme
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+sass:
+  style: compressed
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+paginate: 6
+paginate_path: "/blog/page:num/"

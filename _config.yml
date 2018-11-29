@@ -1,5 +1,5 @@
 ---
-title: Web 3 Theme
+title: Kimberly Radford
 timezone: UTC
 collections:
   pages:
@@ -39,7 +39,7 @@ defaults:
     subtitle: 
     featured_image: 
     excerpt: 
-site: Web 3 Theme
+site: Kimberly Radford
 markdown: kramdown
 kramdown:
   input: GFM

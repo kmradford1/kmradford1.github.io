@@ -1,6 +1,6 @@
 ---
-title: Demo Project
-date: 2018-06-29 17:00:00 -07:00
+title: Volstead Act Business Card
+date: 2018-06-30 00:00:00 Z
 subtitle: This is a demo
 featured_image: "/images/demo/demo-square.jpg"
 excerpt: This page is a demo that shows everything you can do inside portfolio and
@@ -12,11 +12,9 @@ excerpt: This page is a demo that shows everything you can do inside portfolio a
 
 ## Demo content
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Jacob Schreiber from the Volstead Act. The Volstead Act is a popular bar in downtown Spokane that features many delicious craft cocktails. The bar is wooden as are a lot of the surfaces in the bar so I wanted to use that in the design of the card.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+This business card has a unique barrel shape to it. In order to have it printed and cut a die had to be made. I made it with this shape to emulate the barrels that Jake uses to age some of his spirits. 
 
 You can create lists:
 

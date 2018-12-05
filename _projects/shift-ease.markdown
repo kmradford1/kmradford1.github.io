@@ -4,8 +4,8 @@ date: 2018-12-05 03:07:00 Z
 featured_image: "/uploads/iPhone%20X%20(mockup).png"
 excerpt: "Shift Ease makes schedule changes easy for employers and employees. Edit
   and view schedules trouble free. Also enjoy our \"Shift Change\" feature to help
-  your employees get their shifts covered in the blink of an eye. \n\n*Deliverable\nApp
-  Prototype on Invision.*"
+  your employees get their shifts covered in the blink of an eye. \n\n** Deliverable
+  **\nApp Prototype on Invision."
 ---
 
 ## Client

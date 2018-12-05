@@ -2,8 +2,8 @@
 title: Intramural Sports Posters
 date: 2018-12-05 03:14:00 Z
 featured_image: "/uploads/basketballspecialeventoctober.jpg"
-excerpt: "Posters for Eastern Washington Universities Intramural Sports Events. \n\n##
-  Deliverables\nPrinted 11\" by 17\" posters. "
+excerpt: "Posters for Eastern Washington Universities Intramural Sports Events. \n\n*Deliverables\nPrinted
+  11\" by 17\" posters.* "
 ---
 
 ## Client

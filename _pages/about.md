@@ -1,5 +1,5 @@
 ---
-title: About
+title: Who's Kim?
 description: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
   deserunt mollit anim id est laborum.
 subtitle: A reusable subtitle

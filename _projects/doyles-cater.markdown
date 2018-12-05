@@ -3,11 +3,8 @@ title: Doyle's Cater
 date: 2018-12-05 03:01:00 Z
 subtitle: Business Card
 featured_image: "/uploads/Screen%20Shot%202018-11-27%20at%208.16.12%20PM.png"
-excerpt: |-
-  This is a versatile business card designed for Doyle's Cater.
-
-  *Deliverable
-  3.5" by 2" business card design. Client got them printed. *
+excerpt: "This is a versatile business card designed for Doyle's Cater.\n\n** Deliverable
+  **\n3.5\" by 2\" business card design. Client got them printed. "
 ---
 
 ## Client

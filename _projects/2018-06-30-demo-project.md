@@ -1,6 +1,7 @@
 ---
 title: Business Card
 date: 2018-06-30 00:00:00 Z
+position: 2
 subtitle: unique barrel shaped cards
 featured_image: "/uploads/Screen%20Shot%202018-11-27%20at%208.04.32%20PM.png"
 excerpt: Business Card design for Jacob Schreiber at the Volstead Act.

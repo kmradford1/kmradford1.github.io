@@ -1,5 +1,5 @@
 ---
-title: Shift Ease
+title: Projects & Prototypes
 date: 2018-12-05 03:07:00 Z
 position: 0
 featured_image: "/uploads/Screen%20Shot%202018-12-05%20at%2011.49.22%20AM.png"

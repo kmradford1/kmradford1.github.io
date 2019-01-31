@@ -1,6 +1,5 @@
 ---
 title: Who am I?
-date: 2019-01-31 23:00:00 Z
 ---
 
 Kimberly Radford is a graduate from Eastern Washington University with a degree in Visual Communication Design with a minor in Psychology. She will also be receiving her certificate for UX Design. Currently she works as a server at The Onion in downtown Spokane, Washington. Growing up in and around the food service industry, Kim would love to be able to bring her design work into her restaurant work. Prior to graduating Eastern Washington University, Kim worked with the Intramural Sports Department to design posters, flyers, and promotional videos for various events. She has also designed a couple of business cards for bar managers and caterers in her area. Born and raised in Spokane Kim feels very connected to this city and thinks that through her design work she can give back to the place that has made her who she is. 
